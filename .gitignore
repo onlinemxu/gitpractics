@@ -1,0 +1,5 @@
+#ignore temp file
+*~
+
+#ignore all files in temp/ directory
+temp/
