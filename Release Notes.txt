@@ -1,6 +1,7 @@
 ============================
 SpaceSniffer - Release Notes
 ============================
+local changes
 
 Features Flags
 --------------
