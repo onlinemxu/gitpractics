@@ -1,5 +1,9 @@
 ============================
+<<<<<<< HEAD
 SpaceSniffer - Release Notes 456 Updated
+=======
+SpaceSniffer - Release Notes 123 Updated
+>>>>>>> 3f364060eff01a252890ac8d40fabbd097e5a1ba
 ============================
 local changes
 
