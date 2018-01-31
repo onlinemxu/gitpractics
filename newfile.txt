@@ -2,4 +2,4 @@ this is a new file
 
 xxx update in newtesting branch (update in cloud)
 
-new line from cloud
+new line from cloud (ok)
