@@ -1,3 +1,5 @@
 this is a new file
 
-update in newtesting branch (update in cloud)
+xxx update in newtesting branch (update in cloud)
+
+new line from cloud
